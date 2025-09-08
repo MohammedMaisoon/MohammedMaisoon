@@ -30,7 +30,7 @@ Full Stack Developer with a passion for solving complex problems through elegant
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMaisoon&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MohammedMaisoon&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MohammedMaisoon&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 
 
